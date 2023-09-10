@@ -29,6 +29,6 @@ The Love Calculator Web App is a fun and interactive web application that allows
 
 The Love Calculator Web App is perfect for couples, friends, or anyone looking to have a bit of fun while assessing love compatibility. 😄
 
-## License 📜
-
 Enjoy calculating your love percentage! 💘
+
+Design and Develope by Minal Kumari ❤️❤️
